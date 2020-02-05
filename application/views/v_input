@@ -1,0 +1,36 @@
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>crud bambangq</title>
+	</head>
+	<body>
+		<center>
+			<h1>Ini buat input yak</h1>
+			<h3>Tambah data baru</h3>
+		</center>
+		 <div class="input-responsive">
+		<form action="echo base_url(). 'crud/tambah_aksi';?>" method="post">
+			<table style="margin:20px auto;">
+				
+				<tr>
+					<td>Nama</td>
+					<td><input type="text" name="namapel"></td>
+				</tr>
+				<tr>
+					<td>Npm</td>
+					<td><input type="number" name="npm"></td>
+				</tr>
+				<tr> 
+					<td>Kelas</td>
+					<td><input type="text" name="kelas"></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" value="Tambah"></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	</body>
+	</html>
