@@ -1,4 +1,7 @@
 # Simple_e-learning
+
+Ihsan Nurhakim | 17 111 329 | UAS Web Programming 2
+
 Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar dan mengajar pada tingkat SMP, SMA Sederajat. Terdapat beberapa fitur yang dapat memudahkan siswa dalam membaca materi yang disampaikan.
 
 * Aplikasi ini dibuat menggunakan framework [CodeIgniter](https://www.codeigniter.com/) berdasarkan fungsi [CRUD](https://sekolahkoding.com/forum/pengertian-crud-di-php-dan-mysql) sederhana.
